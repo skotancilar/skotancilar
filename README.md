@@ -15,6 +15,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skotancilar&show_icons=true&locale=en&layout=compact" alt="skotancilar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skotancilar&show_icons=true&locale=en" alt="skotancilar" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skotancilar&" alt="skotancilar" /></p>
